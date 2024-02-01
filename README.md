@@ -7,7 +7,7 @@ languages.
 2. Hindi
 3. Dutch
 
-I love nature. [beautiful flowers] (./img/close-up-of-tulips-blooming-in-field-royalty-free-image-1584131603.jpg)
+I love nature. [beautiful flowers] !(./img/close-up-of-tulips-blooming-in-field-royalty-free-image-1584131603.jpg)
 
 ## Hobbies
 
